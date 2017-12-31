@@ -241,13 +241,17 @@ namespace LhitchBubbleChart
                         //move anchor to next circle if no room found
                         if (succeed == false || intersections == 0)
                         {
+                            float dist;
+                            float check;
                             do
                             {
                                 anchorCircle++;
                                 lastCirclePlaced = anchorCircle + 1;
                                 //if the new anchor and the circle that was placed after it are not next to each other
                                 //pick a new anchor
-                            } while (!((DistanceBetween(circleList[anchorCircle], circleList[lastCirclePlaced]) - epsilon) > (circleList[anchorCircle].value + circleList[lastCirclePlaced].value)));
+                                dist = DistanceBetween(circleList[anchorCircle], circleList[lastCirclePlaced]);
+                                check = circleList[anchorCircle].value + circleList[lastCirclePlaced].value;
+                            } while ((dist > check));
                         }
                     } while (succeed == false);
                 }
