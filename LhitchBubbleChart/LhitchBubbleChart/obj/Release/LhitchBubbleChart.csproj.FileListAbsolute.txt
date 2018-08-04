@@ -1,0 +1,9 @@
+F:\Code\VisualStudio\BubbleChart\LhitchBubbleChart\LhitchBubbleChart\LhitchBubbleChart\bin\Release\LhitchBubbleChart.exe.config
+F:\Code\VisualStudio\BubbleChart\LhitchBubbleChart\LhitchBubbleChart\LhitchBubbleChart\bin\Release\LhitchBubbleChart.exe
+F:\Code\VisualStudio\BubbleChart\LhitchBubbleChart\LhitchBubbleChart\LhitchBubbleChart\bin\Release\LhitchBubbleChart.pdb
+F:\Code\VisualStudio\BubbleChart\LhitchBubbleChart\LhitchBubbleChart\LhitchBubbleChart\obj\Release\LhitchBubbleChart.BubChartDisplay.resources
+F:\Code\VisualStudio\BubbleChart\LhitchBubbleChart\LhitchBubbleChart\LhitchBubbleChart\obj\Release\LhitchBubbleChart.Properties.Resources.resources
+F:\Code\VisualStudio\BubbleChart\LhitchBubbleChart\LhitchBubbleChart\LhitchBubbleChart\obj\Release\LhitchBubbleChart.csproj.GenerateResource.cache
+F:\Code\VisualStudio\BubbleChart\LhitchBubbleChart\LhitchBubbleChart\LhitchBubbleChart\obj\Release\LhitchBubbleChart.csproj.CoreCompileInputs.cache
+F:\Code\VisualStudio\BubbleChart\LhitchBubbleChart\LhitchBubbleChart\LhitchBubbleChart\obj\Release\LhitchBubbleChart.exe
+F:\Code\VisualStudio\BubbleChart\LhitchBubbleChart\LhitchBubbleChart\LhitchBubbleChart\obj\Release\LhitchBubbleChart.pdb
